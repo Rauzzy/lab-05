@@ -1,0 +1,4 @@
+2005-12-30|Hello, Merry Christmas
+2004-10-25|I was born today
+2004-10-25|overwrite
+2004-04-24|This is an old message
